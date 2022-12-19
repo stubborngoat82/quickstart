@@ -1,0 +1,4 @@
+baseURL = 'http://blog.4nicate.hns.to/'
+languageCode = 'en-us'
+title = 'Today I found...'
+theme = 'terminal'
